@@ -1,7 +1,5 @@
 from unittest import TestCase
-
 from calc import sum, sub, mul, div
-
 
 class TestCalc(TestCase):
 
