@@ -17,4 +17,3 @@ def div(a, b):
     div = a / b
     print(f"Div: {div}")
     return div
-
