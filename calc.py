@@ -1,19 +1,17 @@
 def sum(a, b):
-    sum = a + b
-    print(f"Sum: {sum}")
-    return sum
+    return a + b
 
 def sub(a, b):
-    sub = a - b
-    print(f"Sub: {sub}")
-    return sub
+    sub_result = a - b
+    print(f"Sub: {sub_result}")
+    return sub_result
 
 def mul(a, b):
-    mul = a * b
-    print(f"Mul: {mul}")
-    return mul
+    mul_result = a * b
+    print(f"Mul: {mul_result}")
+    return mul_result
 
 def div(a, b):
-    div = a / b
-    print(f"Div: {div}")
-    return div
+    div_result = a / b
+    print(f"Div: {div_result}")
+    return div_result
